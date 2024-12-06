@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "967236318136",
+    "project_id": "currencyapp-135a2",
+    "storage_bucket": "currencyapp-135a2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967236318136:android:26c093c647393a1f3c154d",
+        "android_client_info": {
+          "package_name": "com.myCurrencyApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrSzA_XH6rIiNcuQciB5EXU3iYGzCJhHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
